@@ -1,0 +1,11 @@
+1.3
+- Small performance improvements
+- Code cleanup
+- Fully compatible with Unity 5.5
+1.2
+- Added compatibility with Unity 5.4+ and fixed small issues with certain
+type of submeshes.
+1.1
+- Small fixes and perf improvements and better commenting on lines
+1.0
+- Initial Release

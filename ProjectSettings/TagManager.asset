@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Floor
+  - MainCanvas
+  - Bar
+  - Spectrum
+  - raiseEffect
+  - Dodger
+  - Audio
+  - Line
+  - LineBoard
+  - LineObject
+  - ground
+  - wall1
+  - wall2
+  - WarpSphere
+  - QuestionSlotAnswer
+  - LineBoardQuestion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - StarWarp
+  - LineObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
